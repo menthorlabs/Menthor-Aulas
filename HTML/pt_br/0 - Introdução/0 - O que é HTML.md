@@ -1,3 +1,5 @@
+## HTML
+
 HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para criar a estrutura e o conteúdo de páginas da web. Basicamente, ela define a forma como as informações são organizadas e exibidas em um navegador.
 
 Com o HTML, é possível criar elementos como títulos, parágrafos, imagens, links, tabelas e formulários. Esses elementos são escritos utilizando uma sintaxe específica, com tags (etiquetas) que envolvem o conteúdo a ser exibido. Por exemplo, a tag <h1> é utilizada para criar um título de nível 1, a tag <p> para parágrafos e a tag <img> para inserir imagens.
