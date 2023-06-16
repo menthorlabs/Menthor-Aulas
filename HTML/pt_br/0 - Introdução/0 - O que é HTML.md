@@ -1,11 +1,50 @@
-## HTML
+# Aula Introdutória de HTML
 
-HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para criar a estrutura e o conteúdo de páginas da web. Basicamente, ela define a forma como as informações são organizadas e exibidas em um navegador.
+## Sumário
 
-Com o HTML, é possível criar elementos como títulos, parágrafos, imagens, links, tabelas e formulários. Esses elementos são escritos utilizando uma sintaxe específica, com tags (etiquetas) que envolvem o conteúdo a ser exibido. Por exemplo, a tag <h1> é utilizada para criar um título de nível 1, a tag <p> para parágrafos e a tag <img> para inserir imagens.
+1. Introdução ao HTML
+2. Estrutura Básica
+3. Tags Comuns
+4. Listas e Imagens
+5. Conclusão
+6. Exercícios
 
-Além das tags, o HTML também permite atribuir propriedades aos elementos por meio dos atributos. Por exemplo, o atributo href é utilizado para especificar o destino de um link e o atributo src para definir o caminho da imagem a ser exibida.
+## 1. Introdução ao HTML
 
-Uma vez que a estrutura e o conteúdo da página estejam definidos em HTML, é possível estilizar e formatar o visual utilizando CSS (Cascading Style Sheets) e adicionar interatividade e funcionalidades com JavaScript.
+HTML é a sigla para **Hypertext Markup Language**, que significa Linguagem de Marcação de Hipertexto. É uma linguagem de marcação utilizada para criar e estruturar o conteúdo de páginas web.
 
-No geral, o HTML é a base fundamental da web, pois é por meio dele que as informações são estruturadas e apresentadas aos usuários nos navegadores da internet.
+## 2. Estrutura Básica
+
+Um documento HTML básico possui uma estrutura padrão com elementos e atributos. Vamos ver como é essa estrutura.
+
+- `<!DOCTYPE html>`: Define o tipo de documento, no caso HTML5.
+- `<html>`: Elemento raiz que contém todo o documento HTML.
+- `<head>`: Contém metadados e informações que não são exibidas diretamente na página.
+- `<title>`: Define o título da página, que é exibido na barra de título do navegador.
+- `<body>`: Contém todo o conteúdo da página, como texto, imagens, links, etc.
+
+## 3. Tags Comuns
+
+Vamos ver algumas tags HTML comuns.
+
+- `<h1>`, `<h2>`, ..., `<h6>`: São usadas para definir títulos e subtítulos. `<h1>` é o título de maior nível e `<h6>` é o menor.
+- `<p>`: Define um parágrafo.
+- `<a>`: Cria um hiperlink.
+- `<img>`: Insere uma imagem.
+
+## 4. Listas e Imagens
+
+Você pode criar listas usando as tags `<ul>` para listas não ordenadas e `<ol>` para listas ordenadas. Use `<li>` para cada item da lista.
+
+Para adicionar uma imagem, use a tag `<img>` com o atributo `src` para indicar o caminho da imagem.
+
+## 5. Conclusão
+
+HTML é a base para criar páginas web. É importante entender os elementos e atributos básicos para começar a desenvolver websites.
+
+## 6. Exercícios
+
+1. Crie uma página HTML básica com um título, um subtítulo e um parágrafo.
+2. Adicione um link a um site externo em seu parágrafo.
+3. Insira uma imagem em sua página.
+4. Crie uma lista com 5 itens.
